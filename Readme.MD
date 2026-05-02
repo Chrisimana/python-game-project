@@ -10,8 +10,9 @@ Repositori ini berisi koleksi proyek game yang dikembangkan menggunakan Python. 
 
 | Nama Proyek | Deskripsi
 |-------------|-----------
-| [Game Othello](#game-othello) | Game strategi klasik dengan opponent AI
-| [Game Tebak Angka](#game-tebak-angka) | Game tebakan angka interaktif 
+| Game Othello| Game strategi klasik dengan opponent AI
+| Game Tebak Angka | Game tebakan angka interaktif 
+| Tic Tac Toe | Game sejajarkan x atau o untuk menang
 
 ---
 
@@ -21,7 +22,8 @@ Repositori ini berisi koleksi proyek game yang dikembangkan menggunakan Python. 
 python-game-project/
 ├── projects/
 │   ├── game-othello/
-│   └── game-tebak-angka/
+│   ├── game-tebak-angka/
+│   └── tic-tac-toe/
 ├── LICENSE.md
 └── README.md
 ```
@@ -39,7 +41,7 @@ python-game-project/
 
 1. **Clone repository ini**
    ```bash
-   git clone https://github.com/yourusername/python-game-project.git
+   git clone https://github.com/Chrisimana/python-game-project.git
    cd python-game-project
    ```
 
@@ -64,6 +66,7 @@ Setiap proyek memiliki `README.md` tersendiri dengan dokumentasi detail:
 
 - 📄 [Game Othello Documentation](projects/game-othello/README.md)
 - 📄 [Game Tebak Angka Documentation](projects/game-tebak-angka/README.md)
+- 📄 [Tic Tac Toe Documentation](projects/tic-tac-toe/README.md)
 
 ---
 
@@ -73,4 +76,4 @@ Proyek ini dilisensikan di bawah [MIT License](LICENSE.md).
 
 ---
 
-**Last Updated:** 28 April 2026
+**Last Updated:** 2 Mei 2026
