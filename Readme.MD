@@ -11,7 +11,9 @@ Repositori ini berisi koleksi proyek game yang dikembangkan menggunakan Python. 
 | Nama Proyek | Deskripsi
 |-------------|-----------
 | Game Batu Gunting Kertas |Game mengalahkan AI dengan isyarat tangan
+| Game Breakout | Game untuk menghancurkan blok dengan bola
 | Game Othello| Game strategi klasik dengan opponent AI
+| Game Pong | Game memantulkan bola
 | Game Snake | Game ular untuk mencari makan
 | Game Tebak Angka | Game tebakan angka interaktif 
 | Tic Tac Toe | Game sejajarkan x atau o untuk menang
@@ -24,7 +26,9 @@ Repositori ini berisi koleksi proyek game yang dikembangkan menggunakan Python. 
 python-game-project/
 ├── projects/
 │   ├── game-batu-gunting-kertas/
+│   ├── game-breakout/
 │   ├── game-othello/
+│   ├── game-pong/
 │   ├── game-snake/
 │   ├── game-tebak-angka/
 │   └── tic-tac-toe/
@@ -69,7 +73,9 @@ Setiap game memiliki entry point sendiri di dalam folder `src/`:
 Setiap proyek memiliki `README.md` tersendiri dengan dokumentasi detail:
 
 - 📄 [Game Batu Gunting Kertas Documentation](projects/game-batu-gunting-kertas/README.md)
+- 📄 [Game Breakout Documentation](projects/game-breakout/README.md)
 - 📄 [Game Othello Documentation](projects/game-othello/README.md)
+- 📄 [Game Pong Documentation](projects/game-pong/README.md)
 - 📄 [Game Snake Documentation](projects/game-snake/README.md)
 - 📄 [Game Tebak Angka Documentation](projects/game-tebak-angka/README.md)
 - 📄 [Tic Tac Toe Documentation](projects/tic-tac-toe/README.md)
@@ -82,4 +88,4 @@ Proyek ini dilisensikan di bawah [MIT License](LICENSE.md).
 
 ---
 
-**Last Updated:** 4 Mei 2026
+**Last Updated:** 5 Mei 2026
